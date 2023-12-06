@@ -5,13 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **TypeScript, Mongoose**
 
 - 👨‍💻 Portfolio: [https://mdmorshed.netlify.app/](https://mdmorshed.netlify.app/)
 
 - 📫 Email: **mdmorshed.sj2005@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1nMkKuU5A_N_88ghmD4N0CuE8PV8jevlx/view?usp=sharing](https://drive.google.com/file/d/1nMkKuU5A_N_88ghmD4N0CuE8PV8jevlx/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1166m3lQ0CJ_IcYpEOPZ9Nj6laygeEhK3/view](https://drive.google.com/file/d/1166m3lQ0CJ_IcYpEOPZ9Nj6laygeEhK3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
