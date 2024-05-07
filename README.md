@@ -36,9 +36,15 @@
     </td>
     <td align="center" width="96">
       <a href="#am-raju">
+        <img src="./image/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju">
         <img src="./image/tailwind.png" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#am-raju">
@@ -63,6 +69,18 @@
         <img src="./image/next-js.256x256.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/redux-original.256x244.png" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/redux-original.256x244.png" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#am-raju" >
