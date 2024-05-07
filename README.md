@@ -14,9 +14,9 @@
 - 📄 Resume: [https://drive.google.com/file/d/1166m3lQ0CJ_IcYpEOPZ9Nj6laygeEhK3/view](https://drive.google.com/file/d/1166m3lQ0CJ_IcYpEOPZ9Nj6laygeEhK3/view)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/md-aziz-morshed-4b1462280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-morshed-4b1462280" height="30" width="40" /></a>
-<a href="https://fb.com/true.false.98478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="true.false.98478" height="30" width="40" /></a>
+<a href="https://fb.com/true.false.98478" target="blank"><img align="center" src="https://i.ibb.co/1XphMLb/facebook.png" alt="true.false.98478" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
