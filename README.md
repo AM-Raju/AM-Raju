@@ -76,19 +76,40 @@
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
-      <a href="#am-raju" >
-        <img src="./image/redux-original.256x244.png" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#am-raju" >
-        <img src="./image/redux-original.256x244.png" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
+    
   </tr>
+  <tr><td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/node js.png" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/express.png" width="48" height="48" alt="Express JS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/mongodb.webp" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/mongoose.png" width="48" height="48" alt="Mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+    <td align="center" width="96">
+      <a href="#am-raju" >
+        <img src="./image/firebase.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    
+    </tr>
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-raju&show_icons=true&locale=en&layout=compact" alt="am-raju" /></p>
