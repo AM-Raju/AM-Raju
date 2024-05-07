@@ -1,4 +1,4 @@
-![Header](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1284735/regular_1708x683_op-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d3a7d3e7430ee224cab75104f11342a0.png)
+![Header](https://i.ibb.co/rpPLvQk/git-banner.jpg)
 <h1 align="center">Hi 👋, I'm Md. Aziz Morshed</h1>
 <h3 align="center">A passionate Frontend Developer from Jhenaidah, Bangladesh.</h3>
 
