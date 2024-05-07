@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React, NextJS, TypeScript, Mongoose**
+- 🌱 &nbsp;I’m currently learning **React, NextJS, TypeScript, Mongoose**
 
 - 👨‍💻 Portfolio: [https://mdmorshed.netlify.app/](https://mdmorshed.netlify.app/)
 
