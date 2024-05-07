@@ -1,6 +1,6 @@
 ![Header](https://i.ibb.co/rpPLvQk/git-banner.jpg)
 <h1 align="center">Hi 👋, I'm Md. Aziz Morshed</h1>
-<p align="center">A passionate Frontend Developer from Jhenaidah, Bangladesh.</p>
+<p align="center">A passionate Frontend Developer from Jhenaidah, Bangladesh. I love to face new challenges and enhance my skill by overcoming them. Committed to continuous learning. Dedicated to build an impactful web application.</p>
 
 
 
