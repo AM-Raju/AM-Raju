@@ -76,9 +76,10 @@
       </a>
       <br>Redux
     </td>
-    
   </tr>
-  <tr><td align="center" width="96">
+  <br>
+  <tr>
+  <td align="center" width="96">
       <a href="#am-raju" >
         <img src="./image/node js.png" width="48" height="48" alt="NodeJS" />
       </a>
@@ -108,7 +109,6 @@
       </a>
       <br>Firebase
     </td>
-    
     </tr>
 </table>
 
