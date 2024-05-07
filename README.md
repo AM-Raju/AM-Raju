@@ -13,7 +13,7 @@
 
 - 📄 Resume: [https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view](https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/md-aziz-morshed-4b1462280/" target="_blank"><img align="center" src="https://i.ibb.co/VT2R6LY/linkedin.png" alt="LinkedIn profile" height="35" width="130" /></a>
 <a href="https://www.facebook.com/profile.php?id=61558277339618" target="_blank"><img align="center" src="https://i.ibb.co/3NBpdMt/facebook6.png" alt="facebook profile" height="35" width="130" /></a>
