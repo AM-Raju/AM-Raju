@@ -115,5 +115,6 @@
 <h2 align="left" id="am-raju">Stats</h2>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=am-raju&show_icons=true&locale=en&layout=compact" alt="am-raju" /></p>
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=am-raju&show_icons=true&theme=transparent" alt="am-raju" /></p> -->
-<p><img align="left" src="https://streak-stats.demolab.com?am-raju=&theme=dark" alt="am-raju" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=am-raju=&theme=dark" alt="am-raju" /></p>
+
 
