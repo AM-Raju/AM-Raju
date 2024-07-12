@@ -4,13 +4,13 @@
 <p align="center">A passionate Frontend Developer from Jhenaidah, Bangladesh. I love to face new challenges and enhance my skill by overcoming them. Committed to continuous learning. Dedicated to build an impactful web application.</p>
 
 - 🌱 &nbsp;I’m currently learning **React, NextJS, TypeScript, Mongoose**
-- 👨‍💻 &nbsp;Portfolio: [https://mdmorshed.netlify.app/](https://mdmorshed.netlify.app/)
+- 👨‍💻 &nbsp;Portfolio: [https://mdmorshed.vercel.app/](https://mdmorshed.vercel.app/)
 - 📫 &nbsp;Email: **mdmorshed.sj2005@gmail.com**
 - 📄 &nbsp;Resume: [https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view](https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/md-aziz-morshed-4b1462280/" target="_blank"><img align="center" src="./image/linkedin.png" alt="LinkedIn profile" height="35" width="130" /></a>
+<a href="https://www.linkedin.com/in/md-aziz-morshed/" target="_blank"><img align="center" src="./image/linkedin.png" alt="LinkedIn profile" height="35" width="130" /></a>
 <a href="https://www.facebook.com/profile.php?id=61558277339618" target="_blank"><img align="center" src="./image/facebook.png" alt="facebook profile" height="35" width="130" /></a>
 </p>
 
