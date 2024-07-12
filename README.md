@@ -6,7 +6,7 @@
 - 🌱 &nbsp;I’m currently learning **React, NextJS, TypeScript, Mongoose**
 - 👨‍💻 &nbsp;Portfolio: [https://mdmorshed.vercel.app/](https://mdmorshed.vercel.app/)
 - 📫 &nbsp;Email: **mdmorshed.sj2005@gmail.com**
-- 📄 &nbsp;Resume: [https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view](https://drive.google.com/file/d/1iuNgX8-JiTsn5AGBivw1sDA60ddTw-C3/view)
+- 📄 &nbsp;Resume: [https://drive.google.com/file/d/1fjY-5BihPHMz_QrTdmpE9kCKu1x4uj2W/view](https://drive.google.com/file/d/1fjY-5BihPHMz_QrTdmpE9kCKu1x4uj2W/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
